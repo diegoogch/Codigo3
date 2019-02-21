@@ -1,0 +1,2 @@
+table th:nth-child(odd),td:nth-child(odd){
+    background-color: yellowgreen;}
